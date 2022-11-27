@@ -38,7 +38,11 @@ A continuación disponemos de una guía para la instalación de Windows Server 2
 
 ​	<img src="/img/6ºimagenn.png" alt="6ºimagenn" style="zoom:80%;" />
 
-Se inciara nuestra maquina
+Se inciara nuestra maquina y comenzara la instalacion:
+
+​	<img src="/img/10ºimagenn.png" alt="10ºimagenn" style="zoom:80%;" />
+
+
 
 
 
