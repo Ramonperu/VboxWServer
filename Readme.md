@@ -10,7 +10,7 @@ A continuación disponemos de una guía para la instalación de Windows Server 2
 
 ​	----------------------------->1º PASO(OBTENCION DE LA IMAGEN OFICIAL):
 
-​	-Descargamos la *[herramienta](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)* desde la **pagina oficial**:
+​	-Descargamos la *[imagen](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)* desde la **pagina oficial**:
 
 ​	<img src="/img/1ºimagenn.png" alt="1ºimagenn" style="zoom:50%;" />
 
