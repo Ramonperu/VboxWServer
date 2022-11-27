@@ -40,9 +40,17 @@ A continuación disponemos de una guía para la instalación de Windows Server 2
 
 Se inciara nuestra maquina y comenzara la instalacion:
 
+Tendremos que seleccionar la version que queremos en nuestro caso la deskpot experiencie y donde la vamos a instalar
+
 ​	<img src="/img/10ºimagenn.png" alt="10ºimagenn" style="zoom:80%;" />
 
 
 
+-Dejaremos que se lleve la instalacion a cabo tras esto reiniciara y nos pedira los parametros de logeo para Admin:
 
+​	<img src="/img/11ºimagenn.png" alt="11ºimagenn" style="zoom:80%;" />
+
+Estaremos a plena disposicion de nuestra maquina:
+
+​	<img src="/img/12ºimagenn.png" alt="12ºimagenn" style="zoom:80%;" />
 
